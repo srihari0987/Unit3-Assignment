@@ -14,11 +14,11 @@
 
 ## Table
 
-| Item | Price | MOD | Use By |
-| Apple juice | 10 | 20-10-25 | 10-10-26 |
-| Grape juice | 40 | 20-7-25 | 10-10-26 |
-| PineApple juice | 10 | 02-1-25 | 10-2-26 |
-| Guava juice | 10 | 10-4-25 | 20-1-26 |
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+
 
 ```bash
 git status
